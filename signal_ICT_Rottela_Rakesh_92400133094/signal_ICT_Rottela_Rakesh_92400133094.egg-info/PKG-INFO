@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: signal_ICT_Rottela_Rakesh_92400133094
+Version: 0.1
+Summary: A Python package for generating and working with basic signals
+Home-page: https://test.pypi.org/project/signal_ICT_Rottela_Rakesh_92400133094/
+Author: R.Rakesh
+Author-email: rottela.rakesh124031@marwadiuniversity.ac.in
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
